@@ -19,7 +19,7 @@ const HeroSection = () => {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
               Hello, I&apos;m{" "}
             </span>
-            <br></br>
+            <br />
             <TypeAnimation
               sequence={[
                 "Manish",
@@ -39,7 +39,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a full-stack wizard with a passion for crafting sleek,
+            I&apos;m a full-stack wizard with a passion for crafting sleek,
             responsive web apps. With React, Tailwind CSS, Node.js, Express.js,
             and MongoDB
           </p>
